@@ -45,8 +45,8 @@ This project is designed for **educational and cybersecurity learning purposes**
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/xss-scanner.git
-cd xss-scanner
+git clone https://github.com/PratikJamdhade-41/New-XSS-Automate-Tool.git
+cd New-XSS-Automate-Tool
 ```
 
 Install required packages
@@ -142,15 +142,4 @@ Possible upgrades:
 * HTML vulnerability reports
 * Advanced crawler
 
----
 
-# 👨‍💻 Author
-
-**Pratik Jamdhade**
-
-Cybersecurity & App Development Student
-BCA / MCA
-
----
-
-⭐ If you like this project, consider giving it a star!
